@@ -13,7 +13,7 @@ Wallpaper: [Mountain Trees](https://github.com/addy-dclxvi/Openbox-Theme-Collect
 
 
 ![desktop](https://i.imgur.com/GfAqWoY.png)
-Info Script: [Mountain Trees](https://github.com/addy-dclxvi/Openbox-Theme-Collections)
+Info Script: [Mountain Trees](https://biggerthanthethreeofus.com/wp-content/uploads/2017/02/mike-dennler-173199.jpg)
 
 
 ## Colors
